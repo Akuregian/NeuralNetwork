@@ -1,0 +1,6 @@
+[submodule "third_party_libs/eigen"]
+	path = third_party_libs/eigen
+	url = https://github.com/libigl/eigen.git
+[submodule "third_party_libs/spdlogger"]
+	path = third_party_libs/spdlogger
+	url = https://github.com/gabime/spdlog.git
